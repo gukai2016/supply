@@ -8,7 +8,7 @@ if (is_file(__DIR__ . '/../vendor/autoload.php')) {
 }
 require_once __DIR__ . '/Config.php';
 
-use Supply\SupplyClient;
+use API\SupplyClient;
 
 /**
  * Class Common

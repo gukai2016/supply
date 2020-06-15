@@ -5,7 +5,7 @@
  * Date: 2020/6/12
  * Time: 2:46 PM
  */
-namespace Supply;
+namespace API;
 
 use API\Core\ClientException;
 use API\Core\Base;
